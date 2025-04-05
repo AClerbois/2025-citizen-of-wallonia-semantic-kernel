@@ -8,7 +8,7 @@ using Microsoft.SemanticKernel.Connectors.Ollama;
 using OpenAI;
 using OpenAI.Chat;
 
-Console.WriteLine("Hello AI World");
+Console.WriteLine("Hello Citizen AI World");
 Console.WriteLine("===============");
 
 //IChatCompletionService chatService = new OpenAIChatCompletionService("gpt-4o-mini", Environment.GetEnvironmentVariable("AI:OpenAI:Key")); Console.WriteLine("Configuration : OpenAI - gpt-4o-mini");

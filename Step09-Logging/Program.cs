@@ -5,7 +5,7 @@ using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.AzureOpenAI;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 
-Console.WriteLine("Hello AI World");
+Console.WriteLine("Hello Citizen AI World");
 Console.WriteLine("===============");
 
 // Initialization of the service collection

@@ -6,7 +6,7 @@ using Microsoft.SemanticKernel.Connectors.OpenAI;
 using Microsoft.SemanticKernel.Plugins.Web;
 using Microsoft.SemanticKernel.Plugins.Web.Bing;
 
-Console.WriteLine("Hello AI World");
+Console.WriteLine("Hello Citizen AI World");
 Console.WriteLine("===============");
 
 // Initialization of the service collection

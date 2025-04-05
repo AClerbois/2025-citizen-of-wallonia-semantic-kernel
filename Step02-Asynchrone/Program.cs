@@ -2,7 +2,7 @@
 using OpenAI;
 using OpenAI.Chat;
 
-Console.WriteLine("Hello AI World");
+Console.WriteLine("Hello Citizen AI World");
 Console.WriteLine("===============");
 
 OpenAIClient client = new OpenAIClient(new ApiKeyCredential(Environment.GetEnvironmentVariable("AI:OpenAI:Key")));

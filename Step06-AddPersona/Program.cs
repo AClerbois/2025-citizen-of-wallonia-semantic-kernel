@@ -1,7 +1,7 @@
 ﻿using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.AzureOpenAI;
 
-Console.WriteLine("Hello AI World");
+Console.WriteLine("Hello Citizen AI World");
 Console.WriteLine("===============");
 
 IChatCompletionService chatService = new AzureOpenAIChatCompletionService("gpt-4.5-preview", "https://aihubcitizenof7688094729.openai.azure.com/", Environment.GetEnvironmentVariable("AI:AzureOpenAI:Key")); 
